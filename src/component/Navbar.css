@@ -1,0 +1,10 @@
+.nav-box {
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    background: black;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
